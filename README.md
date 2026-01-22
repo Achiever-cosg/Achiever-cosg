@@ -10,7 +10,7 @@
 - 🥇 Solved 1200+ problems on different coding platforms
 - :computer: Deep understanding of data structures, algorithms, and software architecture principles.🧠
 - :student: Experience in developing and maintaining scalable applications.🚀
-- :thinking: I’m currently open for a new `job opportunity`, here is my [Resume](https://drive.google.com/file/d/15ZyQ-l97dUkSgNxClB_eZp34twhjiTIB/view?usp=sharing)
+- :thinking: I’m currently open for a new `job opportunity`, here is my [Resume](https://drive.google.com/file/d/19FZ544tNsc5L6hfCEzCtlzNPo5wqjbk6/view?usp=sharing)
 - 🔭 I'm deeply passionate about technology and would love to explore opportunities where I can contribute meaningfully and grow.🚀
 
 
